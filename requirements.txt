@@ -8,4 +8,9 @@ django-recaptcha
 pillow
 six
 django-allauth
+
+# For PostgreSQL
 psycopg2
+
+# For PDF OCR
+ocrmypdf
